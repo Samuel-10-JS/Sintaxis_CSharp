@@ -1,0 +1,14 @@
+C:\Users\samue\Desktop\Sintaxis_CSharp\Ejercicio3_Interpolacion\bin\Debug\net10.0\Ejercicio3_Interpolacion.exe
+C:\Users\samue\Desktop\Sintaxis_CSharp\Ejercicio3_Interpolacion\bin\Debug\net10.0\Ejercicio3_Interpolacion.deps.json
+C:\Users\samue\Desktop\Sintaxis_CSharp\Ejercicio3_Interpolacion\bin\Debug\net10.0\Ejercicio3_Interpolacion.runtimeconfig.json
+C:\Users\samue\Desktop\Sintaxis_CSharp\Ejercicio3_Interpolacion\bin\Debug\net10.0\Ejercicio3_Interpolacion.dll
+C:\Users\samue\Desktop\Sintaxis_CSharp\Ejercicio3_Interpolacion\bin\Debug\net10.0\Ejercicio3_Interpolacion.pdb
+C:\Users\samue\Desktop\Sintaxis_CSharp\Ejercicio3_Interpolacion\obj\Debug\net10.0\Ejercicio3_Interpolacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Desktop\Sintaxis_CSharp\Ejercicio3_Interpolacion\obj\Debug\net10.0\Ejercicio3_Interpolacion.AssemblyInfoInputs.cache
+C:\Users\samue\Desktop\Sintaxis_CSharp\Ejercicio3_Interpolacion\obj\Debug\net10.0\Ejercicio3_Interpolacion.AssemblyInfo.cs
+C:\Users\samue\Desktop\Sintaxis_CSharp\Ejercicio3_Interpolacion\obj\Debug\net10.0\Ejercicio3_Interpolacion.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\Sintaxis_CSharp\Ejercicio3_Interpolacion\obj\Debug\net10.0\Ejercicio3_Interpolacion.dll
+C:\Users\samue\Desktop\Sintaxis_CSharp\Ejercicio3_Interpolacion\obj\Debug\net10.0\refint\Ejercicio3_Interpolacion.dll
+C:\Users\samue\Desktop\Sintaxis_CSharp\Ejercicio3_Interpolacion\obj\Debug\net10.0\Ejercicio3_Interpolacion.pdb
+C:\Users\samue\Desktop\Sintaxis_CSharp\Ejercicio3_Interpolacion\obj\Debug\net10.0\Ejercicio3_Interpolacion.genruntimeconfig.cache
+C:\Users\samue\Desktop\Sintaxis_CSharp\Ejercicio3_Interpolacion\obj\Debug\net10.0\ref\Ejercicio3_Interpolacion.dll

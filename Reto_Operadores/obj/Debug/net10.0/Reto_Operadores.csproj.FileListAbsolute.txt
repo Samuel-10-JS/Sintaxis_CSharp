@@ -1,0 +1,14 @@
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_Operadores\bin\Debug\net10.0\Reto_Operadores.exe
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_Operadores\bin\Debug\net10.0\Reto_Operadores.deps.json
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_Operadores\bin\Debug\net10.0\Reto_Operadores.runtimeconfig.json
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_Operadores\bin\Debug\net10.0\Reto_Operadores.dll
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_Operadores\bin\Debug\net10.0\Reto_Operadores.pdb
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_Operadores\obj\Debug\net10.0\Reto_Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_Operadores\obj\Debug\net10.0\Reto_Operadores.AssemblyInfoInputs.cache
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_Operadores\obj\Debug\net10.0\Reto_Operadores.AssemblyInfo.cs
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_Operadores\obj\Debug\net10.0\Reto_Operadores.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_Operadores\obj\Debug\net10.0\Reto_Operadores.dll
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_Operadores\obj\Debug\net10.0\refint\Reto_Operadores.dll
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_Operadores\obj\Debug\net10.0\Reto_Operadores.pdb
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_Operadores\obj\Debug\net10.0\Reto_Operadores.genruntimeconfig.cache
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_Operadores\obj\Debug\net10.0\ref\Reto_Operadores.dll

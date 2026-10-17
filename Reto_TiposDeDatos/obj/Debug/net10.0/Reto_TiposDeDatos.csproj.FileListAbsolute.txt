@@ -1,0 +1,14 @@
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_TiposDeDatos\bin\Debug\net10.0\Reto_TiposDeDatos.exe
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_TiposDeDatos\bin\Debug\net10.0\Reto_TiposDeDatos.deps.json
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_TiposDeDatos\bin\Debug\net10.0\Reto_TiposDeDatos.runtimeconfig.json
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_TiposDeDatos\bin\Debug\net10.0\Reto_TiposDeDatos.dll
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_TiposDeDatos\bin\Debug\net10.0\Reto_TiposDeDatos.pdb
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_TiposDeDatos\obj\Debug\net10.0\Reto_TiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_TiposDeDatos\obj\Debug\net10.0\Reto_TiposDeDatos.AssemblyInfoInputs.cache
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_TiposDeDatos\obj\Debug\net10.0\Reto_TiposDeDatos.AssemblyInfo.cs
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_TiposDeDatos\obj\Debug\net10.0\Reto_TiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_TiposDeDatos\obj\Debug\net10.0\Reto_TiposDeDatos.dll
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_TiposDeDatos\obj\Debug\net10.0\refint\Reto_TiposDeDatos.dll
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_TiposDeDatos\obj\Debug\net10.0\Reto_TiposDeDatos.pdb
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_TiposDeDatos\obj\Debug\net10.0\Reto_TiposDeDatos.genruntimeconfig.cache
+C:\Users\samue\Desktop\Sintaxis_CSharp\Reto_TiposDeDatos\obj\Debug\net10.0\ref\Reto_TiposDeDatos.dll
