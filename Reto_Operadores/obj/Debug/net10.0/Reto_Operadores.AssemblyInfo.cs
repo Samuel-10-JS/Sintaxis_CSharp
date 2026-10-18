@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Reto_Operadores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb1410fe9c2583964b25cf8e57816a5c7367b972")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e5d0a7e743187fac9936718555cb1716d3effe6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Reto_Operadores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Reto_Operadores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

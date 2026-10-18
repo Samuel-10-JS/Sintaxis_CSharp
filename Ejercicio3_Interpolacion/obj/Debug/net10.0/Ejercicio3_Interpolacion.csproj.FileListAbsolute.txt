@@ -12,3 +12,4 @@ C:\Users\samue\Desktop\Sintaxis_CSharp\Ejercicio3_Interpolacion\obj\Debug\net10.
 C:\Users\samue\Desktop\Sintaxis_CSharp\Ejercicio3_Interpolacion\obj\Debug\net10.0\Ejercicio3_Interpolacion.pdb
 C:\Users\samue\Desktop\Sintaxis_CSharp\Ejercicio3_Interpolacion\obj\Debug\net10.0\Ejercicio3_Interpolacion.genruntimeconfig.cache
 C:\Users\samue\Desktop\Sintaxis_CSharp\Ejercicio3_Interpolacion\obj\Debug\net10.0\ref\Ejercicio3_Interpolacion.dll
+C:\Users\samue\Desktop\Sintaxis_CSharp\Ejercicio3_Interpolacion\obj\Debug\net10.0\Ejercicio3_Interpolacion.sourcelink.json
